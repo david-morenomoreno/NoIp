@@ -14,6 +14,8 @@ $ cd NoIp/
 
 $ pip install -r requirements.txt
 
+Go to parameterConfig.py and complete the fields. Don't forget delete {}
+
 # Init when Ubuntu start
 Make de file:
 
